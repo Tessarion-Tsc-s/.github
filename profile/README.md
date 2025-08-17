@@ -24,7 +24,7 @@ To design and deliver transparent, efficient, and adaptive investment solutions 
 ---
 
 ## Key Projects
-- [Tessarion-Tsc Org Platform](https://github.com/tessrion-tsc7-dot/Tessarion-tsc)  
+- [Tessarion-Tsc Org Platform](https://github.com/tessrion-tsc7-dot/Tessarion-tsc's)  
 
 ---
 
@@ -34,7 +34,7 @@ To design and deliver transparent, efficient, and adaptive investment solutions 
 ---
 
 ## Contact
-📧 contact@tessarion-tsc.com  
+📧 contact@tessarion-tsc's.com  
 🌐 Website (coming soon)  
 
 ---
